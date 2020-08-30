@@ -1,0 +1,43 @@
+Session1&2
+
+1. repl:  read evaluate print loop
+2. offline and online compiler
+3. repl is live interpreter facility
+4. online python repl (online compiler)
+5. type function
+6. limitation of variable : stores one data at a time
+7. data type list : for storing multiple data
+8. list index
+9. y[] or y.__getitem__(). for getting item
+10. y[1:3] for range or slicing
+11. nested list concept
+12.modules numpy
+13. built in func
+14.  column wise operation in array
+15. only row operation in list.
+16. cross platform language
+
+Session 3
+1.pyttsx3 for speak()
+2. pip list :- for listing 
+libraries
+3. jupyter IDE
+4. jupyter notebook for opening it in browser
+5. jupyter commands
+6. escape sequence keywords e.g(\n, \t)
+
+Session 4
+1.'' or "" = datatype String = Sequence of chars
+2. alt + enter= new cell jupyter
+3. Slicing
+4. JUMP [1:2:jump no.] 
+5. in operator
+6. or & and operator of in operator
+7. About webapp project
+8. Loop (while for now) 
+9. infinite loop 
+10. indentation
+11. else in while
+12. how to get out of infinite loop in jupyter
+13.
+
